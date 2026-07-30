@@ -1,3 +1,4 @@
+import sys
 from collections import Counter
 
 LOG_FILE = "sample.log"
