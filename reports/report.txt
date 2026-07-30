@@ -1,0 +1,16 @@
+NETWORK LOG ANALYSIS REPORT
+========================================
+
+Total log entries: 8
+
+Protocol Statistics
+TCP: 5
+UDP: 2
+ICMP: 1
+
+Action Statistics
+ACCEPT: 5
+DENY: 3
+
+Most common source IP: 192.168.1.5
+Most common destination IP: 8.8.8.8
