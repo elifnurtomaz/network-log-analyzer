@@ -60,3 +60,7 @@ network-log-analyzer/
 - Data visualization
 - Command-line arguments
 - Suspicious activity detection
+
+## Screenshot
+
+![Program Output](images/output.png)
